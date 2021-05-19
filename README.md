@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **charchitsharma11@gmail.com**
 
-- ⚡ Fun fact **I cam draw :wink: !**
+- ⚡ Fun fact **I can draw :wink: !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
