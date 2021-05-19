@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charchit7&label=Profile%20views&color=0e75b6&style=flat" alt="charchit7" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://charchitsharma11.netlify.app/](http://charchitsharma11.netlify.app/)
+- 👨‍💻 Personal Website! [http://charchitsharma11.netlify.app/](http://charchitsharma11.netlify.app/)
 
 - 📫 How to reach me **charchitsharma11@gmail.com**
 
-- ⚡ Fun fact **I like to draw!**
+- ⚡ Fun fact **I cam draw :wink: !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
