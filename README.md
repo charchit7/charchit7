@@ -7,12 +7,12 @@
 
 - 📫 How to reach me **charchitsharma11@gmail.com**
 
-- ⚡ Fun fact **I can draw :wink: !**
+- ⚡ Those who keep similing are the strongest afterall !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_charchit" target="blank"><img align="center" src="https://image000.flaticon.com/png/512/733/733579.png" alt="im_charchit" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/charchits7" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1621422823~hmac=0ffd3433172f30f7a0a5ce26b88746a3" alt="https://instagram.com/charchits7" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/charchits7" target="blank"><img align="center" src="https://www.shutterstock.com/image-photo/kiev-ukraine-may-14-2016-new-420838831" alt="https://instagram.com/charchits7" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
