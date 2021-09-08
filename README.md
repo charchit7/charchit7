@@ -9,6 +9,8 @@
 
 - ⚡ Those who keep similing are the strongest afterall !!**
 
+- Resume : https://drive.google.com/file/d/1lUccWjCD_5sL510UVXhZJ48rABU5Dj5T/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_charchit" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="im_charchit"/></a>
