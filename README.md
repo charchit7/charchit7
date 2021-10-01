@@ -9,7 +9,7 @@
 
 - ⚡ Those who keep similing are the strongest afterall !!**
 
-- Resume : https://drive.google.com/file/d/142ZiiKxN50ow-sDelnelH0UPD8lZ5jCv/view?usp=sharing
+- Resume : https://drive.google.com/file/d/1tItqHBxqze_mi0T_x8cQTMW1u2bXeGlE/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
