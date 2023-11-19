@@ -4,4 +4,4 @@
 
 
 Hi, I'm Charchit Sharma, a Research Assistant working under the guidance of Prof. Vineeth N Balasubramanian at IIT Hyderabad. My primary focus lies in leveraging the power of deep learning techniques to develop innovative research projects! Happy to connect :)
-Currently I am open for jobs as Machine learning Engineer/ Applied Scientist, etc
+Currently I am open for jobs as Machine Learning Engineer/ Applied Scientist, related roles..
