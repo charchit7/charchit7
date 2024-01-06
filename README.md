@@ -11,7 +11,4 @@
         <p>Currently trying my hands in open-source contributions!</p>
         <p>More on : <a href="https://charchit7.github.io/">Profile</a></p>
     </div>
-    <div>
-        <img src="https://github.com/charchit7/charchit7/assets/21178353/e369bd13-7363-486d-b6e0-25980910f021" alt="charchit_drawn" width="300" height="auto">
-    </div>
 </div>
