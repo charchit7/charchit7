@@ -13,3 +13,5 @@
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex">
     </div>
 </div>
+
+[![Charchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=charchit7)](https://github.com/anuraghazra/github-readme-stats)
