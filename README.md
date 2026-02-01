@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Charchit!</h1>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=charchit7&label=Profile%20views&color=0e75b6&style=flat" alt="charchit7" />
-</p>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="flex: 1; padding-right: 20px;">
         <p>Currently working as Senior Machine Learning Engineer at Idfy! I recently completed my research internship at Avataar, working on 3D vision.</p> Previously, I was a research assistant at IIT Hyderabad under the guidance of <a href="https://people.iith.ac.in/vineethnb/">Prof. Vineeth N Balasubramanian</a>. I like to build stuff for fun and work on problems that interest me. Currently, I am exploring about <b>multi-modal learning</b> and <b>representation learning</b>. Please feel free to reach out for colab!.</p> 
@@ -13,5 +9,7 @@
         <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex">
     </div>
 </div>
-
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=charchit7&label=Profile%20views&color=0e75b6&style=flat" alt="charchit7" />
+</p>
 [![Charchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=charchit7&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
