@@ -1,15 +1,49 @@
 <h1 align="center">Hi 👋, I'm Charchit!</h1>
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 1; padding-right: 20px;">
-        <p>Currently working as Senior Machine Learning Engineer at Idfy! I recently completed my research at Avataar, working on 3D vision.</p> Previously, I was a research assistant at IIT Hyderabad under the guidance of <a href="https://people.iith.ac.in/vineethnb/">Prof. Vineeth N Balasubramanian</a>. I like to build stuff for fun and work on problems that interest me. Currently, I am exploring about <b>multi-modal learning</b> and <b>representation learning</b>. Please feel free to reach out for colab!.</p> 
-        <p>More on : <a href="https://charchit7.github.io/">Profile</a></p>
-    </div>
-    <div style="flex: 1;">
-        <p></p>
-        <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex">
-    </div>
+
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" 
+    width="200" 
+    alt="NUX_Octodex"
+  />
 </div>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=charchit7&label=Profile%20views&color=0e75b6&style=flat" alt="charchit7" />
+
+<p>
+  Currently working as a Senior Machine Learning Engineer at 
+  <a href="https://www.idfy.com/">Idfy</a>. I recently completed research at 
+  <a href="https://www.avataar.ai/">Avataar</a>, working on 3D vision.
 </p>
-[![Charchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=charchit7&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+  Previously, I was a Research Assistant at 
+  <a href="https://www.iith.ac.in/">IIT Hyderabad</a> under the guidance of 
+  <a href="https://people.iith.ac.in/vineethnb/">Prof. Vineeth N Balasubramanian</a>.
+</p>
+
+<p>
+  I enjoy building things for fun and working on problems that genuinely interest me.
+  Currently, I am exploring <b>multimodal learning</b> and 
+  <b>representation learning</b>.
+</p>
+
+<p>
+  Feel free to reach out for collaborations!
+</p>
+
+<p>
+  More about me:
+  <a href="https://charchit7.github.io/">Portfolio</a>
+</p>
+
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=charchit7&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="charchit7" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=charchit7&theme=github_dark" 
+  />
+</p>
