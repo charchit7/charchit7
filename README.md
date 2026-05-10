@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charchit!</h1>
 
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" 
-    width="200" 
-    alt="NUX_Octodex"
-  />
-</div>
-
 <p>
   Currently working as a Senior Machine Learning Engineer at 
   <a href="https://www.idfy.com/">Idfy</a>. I recently completed research at 
