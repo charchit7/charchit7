@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charchit!</h1>
 
 <p>
-  Currently working as a Senior Machine Learning Engineer at 
-  <a href="https://www.idfy.com/">Idfy</a>. I recently completed research at 
-  <a href="https://www.avataar.ai/">Avataar</a>, working on 3D vision.
-</p>
-
-<p>
-  Previously, I was a Research Assistant at 
-  <a href="https://www.iith.ac.in/">IIT Hyderabad</a> under the guidance of 
-  <a href="https://people.iith.ac.in/vineethnb/">Prof. Vineeth N Balasubramanian</a>.
+  Currently working as Applied Scientist 3 at 
+  <a href="https://www.glance.com/">Glance AI</a>.
 </p>
 
 <p>
@@ -25,17 +18,4 @@
 <p>
   More about me:
   <a href="https://charchit7.github.io/">Portfolio</a>
-</p>
-
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=charchit7&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="charchit7" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=charchit7&theme=github_dark" 
-  />
 </p>
